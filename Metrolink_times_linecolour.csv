@@ -1,0 +1,153 @@
+From ,To ,Time (mins)
+yellow,,
+Bury,Radcliffe,5.5
+Radcliffe,Whitefield,3
+Whitefield,Besses o'th' Barn,4.5
+Besses o'th' Barn,Prestwich,3.5
+Prestwich,Heaton Park,3
+Heaton Park,Bowker Vale,4
+Bowker Vale,Crumpsall,3
+Crumpsall,Abraham Moss,3.5
+Abraham Moss,Queens Road,2
+Queens Road,Victoria,6.5
+Victoria,Shudehill,2.5
+Shudehill,Market Street,3.5
+Market Street,Piccadilly Gardens,4
+Piccadilly Gardens,Piccadilly Station,2.5
+purple,,
+Altrincham,Navigation Road,1.5
+Navigation Road,Timperley,4
+Timperley,Brooklands,4
+Brooklands,Sale,1
+Sale,Dane Road,2
+Dane Road,Stretford,2
+Stretford,Old Trafford,3.5
+Old Trafford,Trafford Bar,2
+Trafford Bar,Cornbrook,4.5
+Cornbrook,Deansgate/Castlefield,4
+Deansgate/Castlefield,St. Peter's Square,5
+St. Peter's Square,Piccadilly Gardens,2.5
+Piccadilly Gardens,Piccadilly Station,2
+Piccadilly Station,New Islington,3
+New Islington,Holt Town,1
+Holt Town,Etihad Campus,3.5
+green,,
+Altrincham,Navigation Road,3.5
+Navigation Road,Timperley,2
+Timperley,Brooklands,1.5
+Brooklands,Sale,1
+Sale,Dane Road,1.5
+Dane Road,Stretford,2.5
+Stretford,Old Trafford,3.5
+Old Trafford,Trafford Bar,2.5
+Trafford Bar,Cornbrook,4
+Cornbrook,Deansgate/Castlefield,4.5
+Deansgate/Castlefield,St. Peter's Square,4
+St. Peter's Square,Market Street,2
+Market Street,Shudehill,4.5
+Shudehill,Victoria,4
+Victoria,Queens Road,3.5
+Queens Road,Abraham Moss,5
+Abraham Moss,Crumpsall,4
+Crumpsall,Bowker Vale,2.5
+Bowker Vale,Heaton Park,4
+Heaton Park,Prestwich,3.5
+Prestwich,Besses o'th' Barn,4
+Besses o'th' Barn,Whitefield,3.5
+Whitefield,Radcliffe,4.5
+Radcliffe,Bury,5.5
+lightblue,,
+Eccles,Ladywell,1.5
+Ladywell,Weaste,4.5
+Weaste,Langworthy,3
+Langworthy,Broadway,1.5
+Broadway,Media CityUK,1.5
+Media CityUK,Harbour City,4
+Harbour City,Anchorage,4.5
+Anchorage,Salford Quays,5
+Salford Quays,Exchange Quay,6.5
+Exchange Quay,Pomona,3.5
+Pomona,Cornbrook,5.1
+Cornbrook,Deansgate/Castlefield,7
+Deansgate/Castlefield,St. Peter's Square,4.5
+St. Peter's Square,Piccadilly Gardens,3.5
+Piccadilly Gardens,Piccadilly Station,3.5
+Piccadilly Station,New Islington,3.5
+New Islington,Holt Town,3.5
+Holt Town,Etihad Campus,2
+Etihad Campus,Velopark,3
+Velopark,Clayton Hall,4.5
+Clayton Hall,Edge Lane,4.5
+Edge Lane,Cemetery Road,5.5
+Cemetery Road,Droylsden,2.5
+Droylsden,Audenshaw,2.5
+Audenshaw,Ashton Moss,2
+Ashton Moss,Ashton West,3.5
+Ashton West,Ashton-under-Lyne,3
+pink,,
+East Didsbury,Didsbury Village,1
+Didsbury Village,West Didsbury,1.5
+West Didsbury,Burton Road,0.5
+Burton Road,Withington,1.5
+Withington,St Werburgh's Road,2.5
+St Werburgh's Road,Chorlton,2
+Chorlton,Firswood,1.5
+Firswood,Trafford Bar,5.5
+Trafford Bar,Cornbrook,3.5
+Cornbrook,Deansgate/Castlefield,2
+Deansgate/Castlefield,St. Peter's Square,2.5
+St. Peter's Square,Exchange Square,5.5
+Exchange Square,Victoria,3.5
+Victoria,Monsall,6
+Monsall,Central Park,1.5
+Central Park,Newton Heath & Moston,5
+Newton Heath & Moston,Failsworth,4
+Failsworth,Hollinwood,4.5
+Hollinwood,South Chadderton,2.5
+South Chadderton,Freehold,2
+Freehold,Westwood,4.5
+Westwood,Oldham King Street,2.5
+Oldham King Street,Oldham Central,1.5
+Oldham Central,Oldham Mumps,4.5
+Oldham Mumps,Derker,3.5
+Derker,Shaw & Crompton,4.5
+Shaw & Crompton,Newhey,2.8
+Newhey,Milnrow,3
+Milnrow,Kingsway,1
+Kingsway,Newbold,1.5
+Newbold,Rochdale Station,5
+Rochdale Station,Rochdale Town Centre,2.5
+darkblue,,
+Manchester Airport,Shadowmoss,3
+Shadowmoss,Peel Hall,2
+Peel Hall,Robinswood Road,1.5
+Robinswood Road,Wythenshawe Town Centre,2
+Wythenshawe Town Centre,Crossacres,2.5
+Crossacres,Benchill,2
+Benchill,Martinscroft,3
+Martinscroft,Roundthorn,2
+Roundthorn,Baguley,2.5
+Baguley,Moor Road,3.5
+Moor Road,Wythenshawe Park,2
+Wythenshawe Park,Northern Moor,2.5
+Northern Moor,S Water Park,5.5
+S Water Park,Barlow Moor  Road,3.5
+Barlow Moor  Road,St Werburgh's Road,4
+St Werburgh's Road,Chorlton,2.5
+Chorlton,Firswood,3.5
+Firswood,Trafford Bar,3.5
+Trafford Bar,Cornbrook,4
+Cornbrook,Deansgate/Castlefield,5.5
+Deansgate/Castlefield,St. Peter's Square,3.5
+St. Peter's Square,Market Street,4
+Market Street,Shudehill,3
+Shudehill,Victoria,2
+red,,
+Trafford Centre,Barton Road,3.5
+Barton Road,Parkway,4.5
+Parkway,Village,4.5
+Village,Imperial War Museum,2.5
+Imperial War Museum,Wharfside,5
+Wharfside,Pomona,3
+Pomona,Cornbrook,3.5
+Cornbrook,Deansgate/Castlefield,4.5
